@@ -2,7 +2,7 @@
  
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
-[Watch this walkthrough](https://drive.google.com/file/d/19urLjJAtsyAOYALjMyZd_R6zsP5cG2qw/view?usp=drive_link)
+[Watch this walkthrough](https://drive.google.com/file/d/1rIbeFAaE5TG2QTBcyPveugTWiWGaUXZ7/view)
 
 ## Description
 The Command-Line README Generator is a Node.js application that allows users to quickly generate a professional README.md file for their projects through a command-line interface. It prompts the user for various details about the project and populates sections such as Description, Table of Contents, Installation, Usage, License, Contributing.
