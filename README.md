@@ -10,8 +10,7 @@ The Command-Line README Generator is a Node.js application that allows users to 
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+
 
 ## Installation
 To install the Command-Line README Generator, follow these steps:
@@ -30,7 +29,7 @@ To generate a README.md file for your project using the Command-Line README Gene
 5. Once you've provided all the necessary information, the application will generate a README.md file with the provided details.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Contributing
 Contributions to this project are welcome. To contribute, follow these steps:
