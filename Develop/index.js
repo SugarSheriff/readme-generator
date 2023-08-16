@@ -6,39 +6,49 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: "What is the title of your project?",
-    },
-    {
+        message: 'What is the title of your project?',
+      },
+      {
         type: 'input',
         name: 'description',
-        message: "What is the purpose of your project?",
-    },
-    {
-        type: 'checkbox',
-        name: 'content',
-        message: "What languages are used in this project?",
-        choices: ['HTML', 'JavaScript', 'CSS', 'SQL'],
-    },
-    {
+        message: 'Provide a description of your project:',
+      },
+      {
         type: 'input',
         name: 'installation',
-        message: "How do you install your project?",
-    },
-    {
+        message: 'How do you install your project?',
+      },
+      {
         type: 'input',
         name: 'usage',
-        message: "How do you use your project?",
-    },
-    {
+        message: 'How do you use your project?',
+      },
+      {
+        type: 'list',
+        name: 'license',
+        message: 'Choose a license for your project:',
+        choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'ISC', 'None'],
+      },
+      {
         type: 'input',
         name: 'contributing',
-        message: "How can others contribute to your project?",
-    },
-    {
+        message: 'How can others contribute to your project?',
+      },
+      {
         type: 'input',
         name: 'tests',
-        message: "How do you run tests for your project?",
-    }
+        message: 'How do you test your project?',
+      },
+      {
+        type: 'input',
+        name: 'github',
+        message: 'Enter your GitHub username:',
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'Enter your email address:',
+      },
 ];
 
 // TODO: Create a function to write README file
